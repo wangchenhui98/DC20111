@@ -16,6 +16,7 @@ int main(int argc, char *argv[])
 {
 	printf("yes!");	
 	printf("no!");	
+	printf("aaaaa");
 	return 0;
 }
 
