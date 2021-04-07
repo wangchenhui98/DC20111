@@ -14,7 +14,8 @@
 
 int main(int argc, char *argv[])
 {
-	printf("hello world\n");	
+	printf("hello world\n");
+	printf("----------------------------");
 	printf("hello student\n");
 
 	return 0;
